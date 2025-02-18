@@ -1,0 +1,1 @@
+console.log("this is flutter_app.js file");
